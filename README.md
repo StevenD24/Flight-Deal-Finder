@@ -3,7 +3,7 @@
 The purpose of this application is to find flights over the next 6 months at a price that is below the targetted price point that has been set by the user.
 
 ## How it works
-1) The user will fill the columns for the city and set a price limit for each destination (IATA codes will be automatically filled later).
+1) The user will fill a new google sheet in the following format below. The city and price limit needs to be set for each destination (IATA codes will be automatically filled later).
 
 <img width="366" alt="image" src="https://user-images.githubusercontent.com/105379503/219991230-da773fa8-2322-41df-a4cb-010da6ba9bd9.png">
 
