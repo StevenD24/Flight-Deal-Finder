@@ -27,7 +27,7 @@ Then enter your URL as generated below into [data_manager.py](https://github.com
 
 <img width="443" alt="image" src="https://user-images.githubusercontent.com/105379503/219992085-eeff8951-1097-4218-9b36-5826dc50587a.png">
 
-6) The application is now ready to run. Run main.py and the IATA codes will automatically populate as shown below:
+6) The application is now ready for use. Run main.py and the IATA codes will automatically populate as shown below:
 
 <img width="375" alt="image" src="https://user-images.githubusercontent.com/105379503/219995114-8de9fb4a-f19c-4111-8bdf-3adab36bee38.png">
 
