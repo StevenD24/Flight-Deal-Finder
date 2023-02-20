@@ -35,7 +35,7 @@ into [data_manager.py](https://github.com/StevenD24/Flight-Deal-Finder/blob/main
 
 7) Wait for the application to pull the information from the API and see the results!
 
-Example output of the expected output:
+Example of the expected SMS text:
 
 <img width="300" alt="image" src="https://user-images.githubusercontent.com/105379503/219995068-5daf1b7d-8744-47de-800b-3a7d32277180.png">
 
