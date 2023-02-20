@@ -13,11 +13,9 @@ The purpose of this application is to find flights over the next 6 months at a p
 
 <img width="848" alt="image" src="https://user-images.githubusercontent.com/105379503/219992998-9f012858-8f35-4c11-99ef-4521677af397.png">
 
-Then enter your URL as generated below:
+Then enter your URL as generated below into [data_manager.py](https://github.com/StevenD24/Flight-Deal-Finder/blob/main/Flight%20Deal%20Finder/data_manager.py).
 
 <img width="751" alt="image" src="https://user-images.githubusercontent.com/105379503/219993488-95e0a9d7-1720-463b-bd33-e19469173c15.png">
-
-into [data_manager.py](https://github.com/StevenD24/Flight-Deal-Finder/blob/main/Flight%20Deal%20Finder/data_manager.py).
 
 <img width="388" alt="image" src="https://user-images.githubusercontent.com/105379503/219993973-52732108-9560-45e9-8d82-37f702ce3077.png">
 
