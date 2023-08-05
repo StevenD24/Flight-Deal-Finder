@@ -1,6 +1,6 @@
 # Flight Deal Finder
 
-The purpose of this application is to find flights over the next 6 months at a price that is below the targetted price point that has been set by the user.
+The purpose of this application is to find flights over the next 6 months at a price that is below the targeted price point that has been set by the user.
 
 ## How it works
 1) The user will fill a new google sheet in the following format below. The city and price limit needs to be set for each destination (IATA codes will be automatically filled later).
