@@ -1,4 +1,4 @@
-# Flight Deal Finder
+# Flight Scouter
 
 The purpose of this application is to find flights over the next 6 months at a price that is below the targeted price point that has been set by the user.
 
